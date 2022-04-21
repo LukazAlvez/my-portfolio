@@ -1,0 +1,42 @@
+@media screen and (max-width: 900px) {
+  #navbar {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  #inicio {
+    width: 90%;
+  }
+  #title {
+    font-size: 20px;
+  }
+  #sobre {
+    width: 90%;
+    flex-direction: column;
+  }
+  #sobre p {
+    width: 90%;
+    border: none;
+    text-align: justify;
+    margin-top: 10px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  #projetos {
+    width: 90%;
+  }
+  #projetos .cards .card {
+    width: 100%;
+  }
+  #contatos {
+    width: 90%;
+  }
+}
+
+@media screen and (max-width: 1380px) {
+  #projetos .cards {
+    grid-template-columns: 100%;
+    justify-items: center;
+  }
+}
