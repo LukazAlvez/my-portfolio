@@ -34,7 +34,7 @@
   }
 }
 
-@media screen and (max-width: 1380px) {
+@media screen and (max-width: 900px) {
   #projetos .cards {
     grid-template-columns: 100%;
     justify-items: center;
