@@ -30,6 +30,8 @@
     width: 100%;
   }
   #contatos {
+    margin-top: 20px;
+    margin-bottom: 50px;
     width: 90%;
   }
 }
@@ -38,5 +40,8 @@
   #projetos .cards {
     grid-template-columns: 100%;
     justify-items: center;
+  }
+  #box-contacts {
+    flex-direction: column;
   }
 }
