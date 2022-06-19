@@ -1,3 +1,2 @@
 # my-portfolio
-
-https://mellifluous-platypus-c8184e.netlify.app/
+https://lucasalves-dev-portfolio.netlify.app/
